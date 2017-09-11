@@ -1,0 +1,6 @@
+Get libpng sources.
+
+Decompress;
+
+$ cd lpng1632
+$ make -fscripts/makefile.gcc
