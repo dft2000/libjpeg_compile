@@ -46,3 +46,5 @@ These commands will build both static and shared versions of libjpeg.
 6.Copy include and lib to MinGW
 
 Copy include and lib to D:/MinGW from /d/nanagui/jpeg.
+
+
